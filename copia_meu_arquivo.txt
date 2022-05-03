@@ -1,1 +1,11 @@
-vou aprender a usar o GitHub
+=======
+O que eu vou aprender na Trybe:
+
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
+- e outras soft skills
+- Vou aprender a usar o GitHub
+=======
